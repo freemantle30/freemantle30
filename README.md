@@ -5,6 +5,7 @@
 - 📫 How to reach me : maybe later
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: still scraching my head to find one
+- Profile picture by bubuchenbois
 
 <!---
 freemantle30/freemantle30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
